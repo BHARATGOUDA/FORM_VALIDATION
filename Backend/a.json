@@ -1,0 +1,18 @@
+{
+  "user": [
+    {
+      "name": "pradeep",
+      "phno": "7411403782",
+      "email": "p@gmail.com",
+      "pwd": "789",
+      "id": 1
+    },
+    {
+      "name": "Bharat",
+      "phno": "8431135969",
+      "email": "bharat@gmail.com",
+      "pwd": "1234",
+      "id": 2
+    }
+  ]
+}
